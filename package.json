@@ -1,5 +1,5 @@
 {
-  "name": "ra-willer",
+  "name": "RA.willer",
   "version": "1.0.0",
   "description": "como rodar: (lembrar de colocar no auto-save)\r npm i =\r criar o .env =\r npx prisma generate =\r npx prisma migrate dev =\r npm run dev =",
   "main": "index.js",
@@ -9,16 +9,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gabrielapsdn/ra-willer.git"
+    "url": "git+https://github.com/yasmimvsantana-web/RA.willer.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "module",
   "bugs": {
-    "url": "https://github.com/gabrielapsdn/ra-willer/issues"
+    "url": "https://github.com/yasmimvsantana-web/RA.willer/issues"
   },
-  "homepage": "https://github.com/gabrielapsdn/ra-willer#readme",
+  "homepage": "https://github.com/yasmimvsantana-web/RA.willer#readme",
   "dependencies": {
     "@prisma/adapter-pg": "^7.10.0",
     "@prisma/client": "^7.10.0",
